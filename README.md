@@ -51,7 +51,7 @@ Project Link: https://github.com/totomagia/JavascriptAdvanced
 * https://developer.mozilla.org/en-US/
 * https://github.com/
 * https://www.makeareadme.com/
-* Javascript&Jquery by Don Duckett (Apogeo)
+* Javascript&Jquery by Don Duckett (Apogeo).
 
 # Deploy
 https://airpollutionjavascriptadvaced.web.app/
